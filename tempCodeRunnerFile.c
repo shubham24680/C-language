@@ -1,11 +1,8 @@
-for(i=0; i<N-1; i++)
-    // {
-    //     for(j=0; j<N; j++)
-    //     {
-    //         if(i == N - 1 && j == N - 1)
-    //             break;
-    //         back: a[i][j] = rand()%16;
-    //         if(a[i][j] == 0) goto back;
-    //         srand(a[i][j]);
-    //     }
-    // }
+int[] count() {
+//     int k = 0;
+//     for(int i = 0; i < inputDist.size; i++) {
+//         if(start <= inputDist.data[i] && inputDist.data[i] <= end) {
+//             answer.data[k++] = inputDist.data[i]; 
+//         }
+//     }
+// }
